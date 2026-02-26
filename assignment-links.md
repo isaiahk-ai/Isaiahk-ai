@@ -1,7 +1,5 @@
 # Assignment Links - Isaiah
 
-Here are the links for all the tasks:
-
 ### Task 1  
 GitHub profile link  
 https://github.com/isaiahk-ai
@@ -28,3 +26,7 @@ List of all team members' GitHub usernames
 ### Task 5  
 Team repository link (instructor will check Issues, PRs, and Projects tabs)  
 https://github.com/james-wandago/Study-tips-and-techniques
+- Bonny: @bonnfacekaranja-sys  
+- Isaiah: @isaiahk-ai  
+- Joeboy: @Joacqium  
+- Bibo: @Briankibet47
