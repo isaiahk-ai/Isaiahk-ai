@@ -20,7 +20,7 @@ https://github.com/james-wandago/Study-tips-and-techniques
 
 List of all team members' GitHub usernames  
 - James Wandago: @james-wandago  
-- Bonny: @bonnfacekaranja  
+- Bonny: @bonnfacekaranja-sys  
 - Isaiah: @isaiahk-ai  
 - Joeboy: @Joacqium  
 - Bibo: @Briankibet47
